@@ -33,7 +33,7 @@ const Fullname = () => {
   return (
     <div>
       <form onSubmit={handleSubmit}>
-        <h1>Display Full Name</h1>
+        <h1>Full Name Display</h1>
         <div>
           <label>
             First Name:
